@@ -20,7 +20,7 @@
 
 #ifndef DD_LOG_LEVEL
 // #warning 'DD_LOG_LEVEL' is not defined. Using 'DDLogLevelAll' as default. Consider defining it yourself.
-#define DD_LOG_LEVEL DDLogLevelWarn
+#define DD_LOG_LEVEL DDLogLevelWarning
 #endif
 
 static const DDLogLevel DDDefaultLogLevel = DD_LOG_LEVEL;
